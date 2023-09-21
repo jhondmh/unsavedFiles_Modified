@@ -3,6 +3,7 @@
   "displayName": "unsavedFiles",
   "description": "",
   "version": "0.0.1",
+  "publisher": "jhondmh",
   "engines": {
     "vscode": "^1.82.0"
   },
