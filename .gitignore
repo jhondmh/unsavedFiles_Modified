@@ -1,0 +1,21 @@
+# Archivos generados y configuraciones
+.vscode/
+dist/
+out/
+*.js.map
+
+# Dependencias
+node_modules/
+
+# Archivos de bloqueo de paquetes
+package-lock.json
+
+# Archivos de configuración específicos del editor/IDE
+*.code-workspace
+*.iml
+
+# Logs y archivos temporales
+*.log
+.tmp/
+.nyc_output/
+coverage/
